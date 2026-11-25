@@ -1,8 +1,8 @@
 # Fortune Cookie for the Liquidated Trader
 
-[![make.fun](https://make.fun/badge/clever-fortune-cookie-liquidated.svg)](https://make.fun/c/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
-[![rank](https://make.fun/badge/clever-fortune-cookie-liquidated/zenganteng0987/clever-fortune-cookie-liquidated/rank.svg)](https://make.fun/c/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
-[![reward](https://make.fun/badge/clever-fortune-cookie-liquidated/zenganteng0987/clever-fortune-cookie-liquidated/reward.svg)](https://make.fun/c/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
+[![make.fun · u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c](https://make.fun/badge/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c.svg)](https://make.fun/bounty/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c?utm_source=github&utm_medium=readme&utm_campaign=u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
+[![rank](https://make.fun/badge/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c/zenganteng0987/clever-fortune-cookie-liquidated/rank.svg)](https://make.fun/bounty/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
+[![reward](https://make.fun/badge/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c/zenganteng0987/clever-fortune-cookie-liquidated/reward.svg)](https://make.fun/bounty/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c?utm_source=github&utm_medium=readme&utm_campaign=u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c)
 
 An entry for the [Fortune Cookie for the Liquidated Trader](https://make.fun/c/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c) competition on make.fun.
 
